@@ -206,3 +206,8 @@ Gunakan format berikut untuk commit agar kompatibel dengan Semantic Release:
 🎉 **Proyek Anda sekarang telah berhasil diatur dengan Semantic Release dan GitHub Actions!**
 
 **Selamat Mencoba! 🚀**
+
+---
+
+### © 2025 Ronald Sianipar
+```
