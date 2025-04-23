@@ -210,4 +210,3 @@ Gunakan format berikut untuk commit agar kompatibel dengan Semantic Release:
 ---
 
 ### © 2025 Ronald Sianipar
-```
